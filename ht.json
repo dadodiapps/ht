@@ -196,6 +196,6 @@
 {"id":"15870","number":"208","name":"Radio Louange Inter 95.1","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/ht/master/haiti_208.png","streamUrl":"http://174.36.206.197:7152/stream/1/","yourmuzeId":null,"state":"1"},
 {"id":"15871","number":"209","name":"Radio Optimum Haiti","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/ht/master/haiti_209.png","streamUrl":"http://perseus.shoutca.st:8991/stream","yourmuzeId":null,"state":"1"},
 {"id":"16331","number":"210","name":"RADIO NIPPES  FM 100.5","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ht/master/haiti_210.jpeg","streamUrl":"http://stream.zeno.fm/d2qsmtctqhruv","yourmuzeId":"0","state":"1"},
-{"id":"16332","number":"211","name":"Radio Tele Zenith","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ht/master/haiti_210.jpg","streamUrl":"http://stream.zenolive.com/6hehkk4w9s5tv","yourmuzeId":"0","state":"1"}
+{"id":"16332","number":"211","name":"Radio Tele Zenith","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ht/master/haiti_210_002.jpg","streamUrl":"http://stream.zenolive.com/6hehkk4w9s5tv","yourmuzeId":"0","state":"1"}
 
 ],"country":{"id":"42","name":"haiti","logo":"https://raw.githubusercontent.com/dadodiapps/ht/master/haiti.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
